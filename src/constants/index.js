@@ -12,8 +12,8 @@ export const EXPERIENCES = [
     year: "2023 - Present",
     role: "Senior Full Stack Developer",
     company: "Breach Curl.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    description: `Led a team in developing and maintaining web applications using JavaScript, React.js. `,
+    technologies: ["HTML", "CSS", "Javascript", "React.js",],
   },
   {
     year: "2022 - 2023",
