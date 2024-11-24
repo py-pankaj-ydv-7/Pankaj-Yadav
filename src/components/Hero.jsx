@@ -37,7 +37,7 @@ const Hero = () => {
                  transition={{ duration: 1, delay: 1.5}} />
                 </div>
             </div>
-            <div className="w-full lg:w-1/2">
+            <div className="w-full lg:w-1/3">
                  
                 <motion.div 
                    initial="hidden"
